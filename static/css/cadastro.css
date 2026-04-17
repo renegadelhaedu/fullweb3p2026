@@ -29,9 +29,15 @@
     margin-left:15px;
 }
 .conteudo{
+
     width:98%;
     height: 400px;
     margin:50px auto;
+}
+.conteudo p{
+    text-align:center;
+    color:red;
+
 }
 
 .formulario{
